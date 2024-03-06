@@ -1,2 +1,2 @@
 # Kaggle_projects-
-Kaggle projects
+Predict survival on the Titanic
